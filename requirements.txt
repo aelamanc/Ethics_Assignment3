@@ -1,0 +1,17 @@
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+dotenv>=1.0.0
+
+# Gemini (API)
+google-generativeai>=0.3.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Optional: Analysis and visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.11.0

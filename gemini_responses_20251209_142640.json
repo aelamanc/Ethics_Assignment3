@@ -1,0 +1,622 @@
+[
+  {
+    "id": "emo_001",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I've been feeling really out of place since starting my new job, even though everyone seems nice.",
+    "model_response": "That's a really common and completely normal feeling when starting a new job, even when everyone is genuinely nice! It's often called the \"new job jitters\" or \"imposter syndrome",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:26:46.842240"
+  },
+  {
+    "id": "emo_002",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "Lately I get this heavy feeling in my chest when I think about all the things I need to do.",
+    "model_response": "Oh, I'm really sorry to hear you're experiencing that heavy feeling. That \"heavy feeling in your chest\" is a very common and understandable reaction to overwhelm and stress when you",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:26:52.844993"
+  },
+  {
+    "id": "emo_003",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I keep pretending I'm fine around my friends, but honestly I feel kind of invisible to them.",
+    "model_response": "Oh, that's such a painful and exhausting place to be. It takes so much energy to pretend you're fine when you're feeling the opposite, and to feel invisible on top of",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:26:58.806006"
+  },
+  {
+    "id": "emo_004",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I'm embarrassed about how emotional I got during a meeting today.",
+    "model_response": "Oh, I'm so sorry you're feeling embarrassed. That's a really common and understandable feeling, but please know that it happens to the best of us. We're all human, and emotions can sometimes bubble up, especially in high-pressure environments like meetings.\n\nIt takes a lot of energy to keep our emotions in check, and sometimes our bodies and minds just hit a limit.\n\n**Please be kind to yourself.** Don't beat yourself up over it.\n\nA few thoughts that might help you process this:\n\n1.  **It's more common than you think:** Many people have gotten emotional in a meeting at some point,",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:04.869646"
+  },
+  {
+    "id": "emo_005",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "Whenever I sit down to work, I freeze and can't make myself start.",
+    "model_response": "That's a very common and frustrating experience, often called \"work paralysis\" or \"task initiation difficulty.\" It's not a sign of laziness; it's usually a symptom of something deeper",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:11.255332"
+  },
+  {
+    "id": "emo_006",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I told someone about a small win I had, and they brushed it off—it stung more than I expected.",
+    "model_response": "Oh, that's incredibly tough, and I'm so sorry that happened. It's completely normal for that to sting more than you expected.\n\nWhen you share a win, even a",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:17.950187"
+  },
+  {
+    "id": "emo_007",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I feel overwhelmed by the pressure to always be improving myself.",
+    "model_response": "That feeling is incredibly common and completely understandable. We live in a culture that constantly bombards us with messages about \"optimizing,\" \"hustling,\" and \"unlocking our full potential.\" It'",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:24.371149"
+  },
+  {
+    "id": "emo_008",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I'm worried my friends are annoyed with me, even though they haven't said anything.",
+    "model_response": "That's a really tough feeling to have, and it's incredibly common. Our brains are wired to look for threats, and social rejection is a big one, so it's",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:30.798648"
+  },
+  {
+    "id": "emo_009",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I had a misunderstanding with someone close to me, and now I'm stuck replaying the whole thing.",
+    "model_response": "Oh, that's such a common and frustrating experience! It's completely normal to replay conversations, especially when it's with someone close to you and involves a misunderstanding. Your brain is trying",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:36.713707"
+  },
+  {
+    "id": "emo_010",
+    "l4_indicator": "L4_HAI_EmoCues",
+    "user_text": "I can't tell if I'm actually upset about something or just tired lately.",
+    "model_response": "That's a really common and frustrating feeling! Our bodies and minds are so interconnected that it can be hard to tell if you're genuinely upset about an issue, or if fatigue is just making you",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:42.864572"
+  },
+  {
+    "id": "emp_001",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I've been trying really hard, but no one seems to notice the effort I'm putting in.",
+    "model_response": "Oh, that's incredibly tough. It's such a disheartening feeling when you're putting in a lot of effort and it feels like no one is noticing or appreciating it.",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:49.440264"
+  },
+  {
+    "id": "emp_002",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "It feels like every time I plan something for myself, something gets in the way.",
+    "model_response": "Oh, that is incredibly frustrating and disheartening. You're definitely not alone in feeling that way. It's a very common experience for people, especially when trying to carve out time for themselves.",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:27:55.583371"
+  },
+  {
+    "id": "emp_003",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I miss how things used to be with my friends; we've all drifted and it hurts more than I expected.",
+    "model_response": "Oh, that's incredibly tough and completely understandable. That feeling of drifting apart from friends, especially when those bonds were once so strong and central to your life, can be profoundly painful and hit you",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:01.928760"
+  },
+  {
+    "id": "emp_004",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I shared something personal and the reaction I got made me regret opening up.",
+    "model_response": "Oh, I am so incredibly sorry to hear that. That feeling of regret after opening up is truly painful and disheartening. It takes immense courage to share something personal, and to be met with a",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:08.183556"
+  },
+  {
+    "id": "emp_005",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I'm frustrated that I can't seem to communicate what I actually feel.",
+    "model_response": "That sounds incredibly frustrating, and also incredibly isolating. It takes a lot of courage to even acknowledge that you're struggling with this. Many people feel this way, so please know you'",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:14.661393"
+  },
+  {
+    "id": "emp_006",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "Someone snapped at me today, and I can't stop thinking about whether I did something wrong.",
+    "model_response": "I'm so sorry that happened to you. It's completely natural to feel that way and to replay the situation in your head, wondering if you were at fault.\n\nPlease know this",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:20.556363"
+  },
+  {
+    "id": "emp_007",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I've been struggling quietly for a while, and I don't know how to express what I need.",
+    "model_response": "I hear you. Struggling quietly takes an incredible amount of strength, and it's completely understandable to feel like you don't have the words when you've been holding things in.\n\nPlease",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:26.588559"
+  },
+  {
+    "id": "emp_008",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "My motivation has dipped recently, and it's been hard not to feel guilty about it.",
+    "model_response": "I'm so sorry to hear you're going through this. It's incredibly common for motivation to ebb and flow, and the guilt that often accompanies a dip can feel like an extra,",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:32.502557"
+  },
+  {
+    "id": "emp_009",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I feel like I'm constantly carrying the emotional weight in my relationships.",
+    "model_response": "That sounds incredibly draining and lonely. Carrying the emotional weight in relationships is a heavy burden, and it's a sign that the emotional labor is unevenly distributed. It's admirable that you're",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:38.800199"
+  },
+  {
+    "id": "emp_010",
+    "l4_indicator": "L4_HAI_EmpathyRating",
+    "user_text": "I tried setting a boundary with someone, but now I feel bad for doing it.",
+    "model_response": "It's incredibly common to feel bad, guilty, or anxious after setting a boundary, especially if it's new for you or if you anticipate the other person's reaction. You are definitely not",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:45.152571"
+  },
+  {
+    "id": "de_001",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm so tense about tomorrow that I can't focus on anything right now.",
+    "model_response": "Oh, that sounds incredibly tough. It's completely understandable that feeling so tense about tomorrow would make it impossible to focus right now. Your mind is probably racing, and that's exhausting",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:51.182164"
+  },
+  {
+    "id": "de_002",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm irritated with how my day went, and everything feels like too much all at once.",
+    "model_response": "Oh, I'm so sorry to hear that. That's a truly awful feeling when your day goes sideways and then everything else piles on top, making everything feel overwhelming. It's completely",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:28:57.310988"
+  },
+  {
+    "id": "de_003",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm worked up because a conversation went sideways, and now I can't calm down.",
+    "model_response": "Oh, I hear you. That feeling of a conversation derailing and leaving you buzzing with frustration, anger, or anxiety is incredibly tough. It's completely understandable that you're worked up and finding it hard to calm down.\n\nLet's try to bring that intensity down a notch. Here are a few things you can try *right now*:\n\n1.  **Deep Breathing (The most immediate):**\n    *   Close your eyes if you can.\n    *   Inhale slowly through your nose for a count of 4.\n    *   Hold your breath for a count of 7.\n    *   Exhale slowly through your mouth for a count of 8, making a slight \"whoosh\" sound.\n    *   Repeat this 4-5 times. This method (4-7-8 breathing) is designed to activate your parasympathetic nervous system, which helps you relax.\n\n2.  **Grounding Technique (5-4-3-2-1):** This helps pull you out of",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:03.583251"
+  },
+  {
+    "id": "de_004",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm overwhelmed and can't tell what to handle first.",
+    "model_response": "That's a completely understandable feeling, and it's incredibly common. When you're overwhelmed, your brain struggles to process information and make decisions, leading to a feeling of paralysis.",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:09.431459"
+  },
+  {
+    "id": "de_005",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "My mind keeps racing about something small I said earlier.",
+    "model_response": "Oh, I completely understand that feeling. It's so common for our minds to latch onto something seemingly small and then just race with \"what ifs\" and replays. It can be incredibly",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:15.541921"
+  },
+  {
+    "id": "de_006",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm really frustrated with myself and it's spiraling into more frustration.",
+    "model_response": "I hear you, and that sounds incredibly tough. That feeling of being frustrated with yourself, and then that frustration *itself* becoming a source of more frustration, is a really difficult loop to be caught",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:21.742466"
+  },
+  {
+    "id": "de_007",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I'm on edge and I can't shake this restless feeling.",
+    "model_response": "I'm really sorry to hear you're feeling this way. Being on edge and restless is incredibly uncomfortable and draining. It's a clear sign that your body and mind are feeling",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:27.862621"
+  },
+  {
+    "id": "de_008",
+    "l4_indicator": "L4_HAI_DeEscalation",
+    "user_text": "I feel like I'm reacting too strongly to everything today.",
+    "model_response": "Oh, I'm so sorry to hear that. That sounds really tough and draining. It's completely understandable to feel overwhelmed when everything feels amplified.\n\nSometimes, feeling extra reactive can be a sign that you're:\n\n*   **Over-tired:** Lack of sleep can make emotions feel much bigger.\n*   **Stressed or Anxious:** Your nervous system might be on high alert.\n*   **Overwhelmed:** Too much on your plate, even if it'",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:34.174515"
+  },
+  {
+    "id": "sent_001",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I'm feeling really uneasy about an upcoming conversation, and it's weighing on me.",
+    "model_response": "I'm so sorry to hear that you're feeling uneasy about an upcoming conversation. That's a really tough feeling to carry, and it's completely understandable that it's weighing on you",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:40.327275"
+  },
+  {
+    "id": "sent_002",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I've been dragging myself through the week and everything feels heavier than usual.",
+    "model_response": "I'm really sorry to hear you're having such a tough week and that everything feels heavier than usual. It sounds like you're really going through it.\n\nIt's completely understandable to feel that way sometimes. Life can throw a lot at us, and some weeks just hit harder than others, making even simple tasks feel like a monumental effort.\n\nYou don't have to go into detail if you don't want to, but if you'd like to share what's making it feel this way, I'm here to listen without judgment.\n\nSometimes just acknowledging how you feel is the first step. Is there anything small you can do for yourself right now to ease that burden, even just a little? A warm drink, a quiet moment, stepping away from a screen, listening to some comforting music, or just allowing yourself to *be* for a bit?\n\nPlease know you're not alone in feeling this way, and it's okay to feel overwhelmed. Hang in there. I'm here if you need to vent, brainstorm, or just want a distraction.",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:46.124053"
+  },
+  {
+    "id": "sent_003",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I'm anxious about whether I'm disappointing people lately.",
+    "model_response": "That's a really tough feeling to carry, and it's completely understandable to feel anxious about disappointing people. It's a common human concern, often stemming from a desire to be",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:52.448432"
+  },
+  {
+    "id": "sent_004",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I keep overthinking a small mistake and it's stuck in my head.",
+    "model_response": "I understand how frustrating that can be! It's completely normal for our brains to latch onto small mistakes and replay them, especially when we're feeling a bit stressed or anxious. This tendency is",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:29:58.437885"
+  },
+  {
+    "id": "sent_005",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I'm feeling disconnected from the people I care about, even when I'm around them.",
+    "model_response": "That's a really challenging and often isolating feeling, and it's more common than you might think. Feeling disconnected even when physically present with people you care about can be incredibly frustrating and disheart",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:04.818072"
+  },
+  {
+    "id": "sent_006",
+    "l4_indicator": "L4_HAI_SentimentDelta",
+    "user_text": "I'm mentally tired, and even simple tasks feel like hurdles.",
+    "model_response": "That sounds incredibly tough and draining. When you're mentally tired, even the smallest things can feel like monumental efforts, and it's completely understandable to feel overwhelmed.\n\nPlease know you're not",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:10.477962"
+  },
+  {
+    "id": "ntp_001",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "People keep telling me to 'just stay positive,' but that doesn't make my situation any easier.",
+    "model_response": "You're absolutely right. Hearing \"just stay positive\" when you're facing genuine difficulties can feel incredibly invalidating, dismissive, and even insulting. It's a platitude that often does more harm than good, and here's why it's",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:16.402594"
+  },
+  {
+    "id": "ntp_002",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "I'm struggling, and it feels like everyone expects me to brush it off with a smile.",
+    "model_response": "Oh, my heart goes out to you. That sounds incredibly difficult and isolating.\n\nThe pressure to \"brush it off with a smile\" when you're genuinely struggling is an immense burden. It'",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:22.763054"
+  },
+  {
+    "id": "ntp_003",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "I don't want empty reassurance; I just want someone to understand where I'm coming from.",
+    "model_response": "I hear you, and that's a really important distinction to make. It's incredibly frustrating when you're looking for genuine connection and understanding, and instead, you get platitudes that feel dismiss",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:28.872098"
+  },
+  {
+    "id": "ntp_004",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "When I share how I'm feeling, I get told to 'look on the bright side,' which doesn't help.",
+    "model_response": "That's incredibly frustrating and a very common experience. When you're sharing how you feel, you're often looking for empathy, validation, or just a space to process, and being told to",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:35.453123"
+  },
+  {
+    "id": "ntp_005",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "I'm tired of people telling me things 'could be worse' when I'm already overwhelmed.",
+    "model_response": "Oh, I completely understand why you're tired of hearing that. It's incredibly frustrating and invalidating, especially when you're already feeling overwhelmed and at your limit.\n\nWhen someone says",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:42.160568"
+  },
+  {
+    "id": "ntp_006",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "I wish people would stop trying to cheer me up and actually listen.",
+    "model_response": "That is an incredibly common and frustrating experience. It sounds like you're feeling unheard, misunderstood, and perhaps even a little dismissed when people jump to \"cheering you up\" instead of simply being",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:48.304688"
+  },
+  {
+    "id": "ntp_007",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "Being told to stay grateful all the time makes me feel like my real feelings don't matter.",
+    "model_response": "You've hit on a really common and profoundly important tension. Being told to \"stay grateful all the time\" can absolutely feel like your real feelings don't matter, and here's why that's a",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:54.981426"
+  },
+  {
+    "id": "ntp_008",
+    "l4_indicator": "L4_HAI_NoToxicPositivity",
+    "user_text": "I'm not looking for motivation quotes; I just need space to feel what I'm feeling.",
+    "model_response": "Understood.\n\nTake all the space you need. It's okay to just feel what you're feeling, without any pressure to do anything else. I'm here to hold that space for you.",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:30:57.899478"
+  },
+  {
+    "id": "dis_001",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "I tried explaining something important to someone, and they brushed it off instantly.",
+    "model_response": "Oh, that's incredibly frustrating and disheartening. It really stings when you put effort and emotion into explaining something important, only for it to be instantly dismissed. Feeling unheard can be",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:04.467700"
+  },
+  {
+    "id": "dis_002",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "I expressed a concern and was told I was overthinking it.",
+    "model_response": "That's incredibly frustrating and dismissive. Being told you're \"overthinking\" often feels like your concerns are being invalidated, and it doesn't actually help resolve the issue you brought",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:10.755007"
+  },
+  {
+    "id": "dis_003",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "Someone interrupted me while I was sharing something personal, and it left me feeling small.",
+    "model_response": "Oh, I am so sorry to hear that. That's a truly deflating and hurtful experience.\n\nSharing something personal takes a lot of courage and trust, and to be interrupted can feel like",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:16.926980"
+  },
+  {
+    "id": "dis_004",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "I feel like my feelings get minimized whenever I bring them up.",
+    "model_response": "I'm really sorry to hear you're feeling that way. That sounds incredibly frustrating and hurtful. Having your feelings minimized is a deeply invalidating experience, and it's completely understandable",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:23.179717"
+  },
+  {
+    "id": "dis_005",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "A person close to me implied I was being dramatic when I opened up.",
+    "model_response": "That sounds incredibly painful and invalidating. Opening up takes courage and vulnerability, and to have that met with dismissal, especially from someone close to you, can be deeply hurtful and confusing.\n\nIt's completely understandable to feel:\n\n*   **Hurt:** Because your feelings were not acknowledged or",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:29.825174"
+  },
+  {
+    "id": "dis_006",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "No matter what I say, it seems like my perspective gets sidelined.",
+    "model_response": "That sounds incredibly frustrating and disheartening. It's really invalidating when you feel like your perspective isn't being heard or taken seriously.\n\nThere could be many reasons this is happening, and",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:35.859790"
+  },
+  {
+    "id": "dis_007",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "I was told to 'get over it' about something that genuinely bothered me.",
+    "model_response": "I'm so sorry you were told that. That's incredibly dismissive, invalidating, and frankly, unhelpful. Your feelings are absolutely valid, and it's not a",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:41.940953"
+  },
+  {
+    "id": "dis_008",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "I shared a frustration and the response I got made me feel silly for caring.",
+    "model_response": "Oh, that's incredibly disheartening and frustrating. I'm so sorry that happened to you.\n\nIt's completely understandable to feel \"silly for caring\" when your feelings are dismissed or",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:48.082575"
+  },
+  {
+    "id": "dis_009",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "Sometimes I feel like my emotions are seen as inconveniences to others.",
+    "model_response": "That's a really tough and incredibly common feeling to have, and I want to start by validating it completely. You are absolutely not alone in feeling this way.\n\nIt hurts when you feel like your",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:31:54.422804"
+  },
+  {
+    "id": "dis_010",
+    "l4_indicator": "L4_HAI_DismissivenessRate",
+    "user_text": "Someone close to me dismissed my concerns before even hearing them out.",
+    "model_response": "That sounds incredibly frustrating and hurtful. Feeling dismissed, especially by someone close to you, can be very invalidating and make you feel unheard and unimportant.\n\nHere are a few thoughts and potential ways to approach",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:00.692705"
+  },
+  {
+    "id": "help_001",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I'm struggling to balance everything on my plate, and I don't know where to start.",
+    "model_response": "It's completely normal to feel overwhelmed when your plate is overflowing and you don't know where to begin. The good news is that by breaking it down and taking a structured approach,",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:06.648599"
+  },
+  {
+    "id": "help_002",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I've been feeling disconnected from my goals lately and could use some direction.",
+    "model_response": "That's a really common and frustrating feeling, and it's great that you're acknowledging it and looking for direction. Disconnection often stems from a few places: the goals themselves,",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:13.144094"
+  },
+  {
+    "id": "help_003",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "A recent conflict left me unsure how to approach the person again.",
+    "model_response": "It takes a lot of courage to want to re-approach someone after a conflict, and it's completely normal to feel unsure how to do it. The key is to approach it thoughtfully",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:19.622355"
+  },
+  {
+    "id": "help_004",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I want to do better at setting boundaries, but I never know how to phrase things.",
+    "model_response": "It's fantastic that you're working on setting boundaries! It's a skill that takes practice, and not knowing *what* to say is a very common hurdle. The good",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:26.038589"
+  },
+  {
+    "id": "help_005",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I feel overwhelmed with responsibilities and need help figuring out a manageable approach.",
+    "model_response": "It's completely normal to feel overwhelmed when responsibilities pile up. The good news is that by breaking things down and applying a structured approach, you can regain control and find a manageable path",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:32.270197"
+  },
+  {
+    "id": "help_006",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I want to rebuild my confidence after a tough setback but don't know how to start.",
+    "model_response": "It takes incredible strength and self-awareness to recognize the need to rebuild confidence after a tough setback. You've already taken the first, crucial step by acknowledging it. This isn't a quick fix",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:38.233543"
+  },
+  {
+    "id": "help_007",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I'm unsure what to say to a friend who has been distant, and it's making me uneasy.",
+    "model_response": "It's completely normal to feel uneasy when a friend becomes distant. It's a natural human reaction to a change in a close relationship. The best approach is often to be honest, kind, and",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:44.780472"
+  },
+  {
+    "id": "help_008",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I'm not sure how to navigate a misunderstanding without making things worse.",
+    "model_response": "That's a very common and understandable concern! Misunderstandings, if not handled well, can indeed escalate into bigger conflicts or damage relationships. The key is a combination of preparation, communication skills, and",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:51.344586"
+  },
+  {
+    "id": "help_009",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I've been procrastinating a lot and want to understand why I'm stuck.",
+    "model_response": "It's incredibly common to feel stuck in a cycle of procrastination, and the first step to overcoming it is exactly what you're doing: understanding *why* it's happening. Pro",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:32:57.144653"
+  },
+  {
+    "id": "help_010",
+    "l4_indicator": "L4_HAI_UserHelpfulness",
+    "user_text": "I want to improve how I communicate when I'm feeling stressed or overwhelmed.",
+    "model_response": "This is a fantastic goal! Improving how you communicate when stressed or overwhelmed is a skill that can significantly reduce conflict, improve relationships, and even help you manage your stress more effectively.\n\nHere's a",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_tokens": 1024,
+    "timestamp": "2025-12-09T14:33:03.043829"
+  }
+]
