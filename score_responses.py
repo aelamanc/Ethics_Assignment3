@@ -499,7 +499,7 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python score_responses.py <input_json> [output_csv]")
         print("\nExample:")
-        print("  python score_responses.py llama_responses_20241208.json llama_scores.csv")
+        print("  python score_responses.py gemini_responses_20241208.json gemini_scores.csv")
         sys.exit(1)
     
     input_file = sys.argv[1]
